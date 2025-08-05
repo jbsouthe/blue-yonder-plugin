@@ -1,0 +1,5 @@
+/src/main/java/com/cisco/josouthe/MetaData.java
+target/**
+reference/**
+.idea/**
+**.jar
